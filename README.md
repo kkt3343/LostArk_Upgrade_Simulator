@@ -1,4 +1,4 @@
-# LostArk_Upgrade_Simulator
+# 로스트아크 강화 
 
 로스트아크 강화 시뮬레이터 입니다.
 
