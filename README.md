@@ -10,5 +10,5 @@
 **스크린샷** <br>
 <img src="ss.png" width="800" height="800">
 
-\\<!--[네이버](https://www.naver.com)-->
-<a href="https://www.naver.com">네이버</a>
+<!--[네이버](https://www.naver.com)-->
+<!--<a href="https://www.naver.com">네이버</a>-->
