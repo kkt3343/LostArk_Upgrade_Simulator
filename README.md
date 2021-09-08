@@ -8,4 +8,4 @@
 (3343kkt@naver.com)
 
 **용도** <br>
-<img src="ss.png" width="300" height="300">
+<img src="ss.png" width="600" height="600">
