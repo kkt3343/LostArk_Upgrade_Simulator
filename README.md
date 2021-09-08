@@ -8,4 +8,4 @@
 (3343kkt@naver.com)
 
 **스크린샷** <br>
-<img src="ss.png" width="600" height="600">
+<img src="ss.png" width="800" height="800">
