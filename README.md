@@ -10,4 +10,4 @@
 **스크린샷** <br>
 <img src="ss.png" width="800" height="800">
 
-<a href="www.naver.com"></a>
+<a href="www.naver.com">네이버</a>
